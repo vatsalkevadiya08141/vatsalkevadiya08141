@@ -19,10 +19,6 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vatsalkevadiya08141&theme=dark)](https://git.io/streak-stats)
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
