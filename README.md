@@ -66,8 +66,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vatsalkevadiya08141&color=blueviolet&style=for-the-badge)
 
----
-
-⭐️ From [vatsalkevadiya08141](https://github.com/vatsalkevadiya08141)
-
 </div>
