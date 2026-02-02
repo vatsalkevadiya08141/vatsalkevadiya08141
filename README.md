@@ -15,7 +15,6 @@
 - 🔭 Currently working on **embedded systems and IoT projects**
 - 🌱 Learning advanced **firmware development** and **system programming**
 - 💡 Passionate about **hardware-software integration**
-- ⚡ Fun fact: I love turning coffee into code ☕️
 
 ---
 
